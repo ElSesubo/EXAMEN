@@ -23,6 +23,12 @@ sudo login usera
 touch fitxera.txt
 chmod 700 fitxera.txt
 
+5.
+
+sudo login userb
+touch fitxerb.txt
+chmod 734 fitxerb.txt
+
 
 
 
