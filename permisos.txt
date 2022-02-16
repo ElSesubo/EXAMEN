@@ -47,3 +47,8 @@ sudo chown user2 fitxer1.txt
 9.
 
 sudo chmod 714 fitxerb.txt
+
+10.
+
+sudo chown user1 fitxera
+sudo chgrp grupnumero fitxera
