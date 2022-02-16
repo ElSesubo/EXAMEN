@@ -2,3 +2,10 @@
 
 sudo groupadd gruplletra
 sudo groupadd grupnumero
+
+2.
+
+sudo useradd usera
+sudo useradd userb
+sudo adduser usera gruplletra
+sudo adduser userb gruplletra
