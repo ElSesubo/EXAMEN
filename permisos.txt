@@ -44,4 +44,6 @@ sudo usermod -g grupnumero user1
 
 sudo chown user2 fitxer1.txt
 
+9.
 
+sudo chmod 714 fitxerb.txt
