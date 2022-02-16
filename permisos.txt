@@ -35,4 +35,9 @@ sudo login user1
 touch fitxer1.txt 
 chmod 774 fitxer1.txt
 
+7.
+
+sudo usermod -a -G grupnumero,gruplletra user1
+sudo usermod -g grupnumero user1
+
 
