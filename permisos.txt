@@ -1,0 +1,4 @@
+1.
+
+sudo groupadd gruplletra
+sudo groupadd grupnumero
