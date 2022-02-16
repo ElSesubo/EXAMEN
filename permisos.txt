@@ -40,4 +40,8 @@ chmod 774 fitxer1.txt
 sudo usermod -a -G grupnumero,gruplletra user1
 sudo usermod -g grupnumero user1
 
+8.
+
+sudo chown user2 fitxer1.txt
+
 
