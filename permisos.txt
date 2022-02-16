@@ -17,4 +17,12 @@ sudo useradd user2
 sudo adduser usera grupnumero
 sudo adduser userb grupnumero
 
+4.
+
+sudo login usera
+touch fitxera.txt
+chmod 700 fitxera.txt
+
+
+
 
